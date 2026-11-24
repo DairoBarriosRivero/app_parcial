@@ -4,31 +4,6 @@ Aplicación móvil desarrollada con **Flutter**, **Dart** y **Firebase**, diseñ
 
 ---
 
-## 🎥 Enlace a Video de Demostración
-
-> [!IMPORTANT]
-> **Nota de Entrega**: Siguiendo las directrices de la entrega académica, los archivos de video pesados (`.mp4`, `.mov`, etc.) han sido excluidos de este repositorio mediante `.gitignore` para evitar superar los límites de tamaño de GitHub. El video demostrativo se comparte a través de los siguientes enlaces externos:
-
-- 🎬 **Video demostrativo completo (Google Drive / YouTube)**:
-  - 🔗 **Enlace 1 (Video demostrativo)**: `[PEGA_AQUÍ_TU_ENLACE_DE_DRIVE_O_YOUTUBE]`
-  - 🔗 **Enlace alternativo**: `[PEGA_AQUÍ_TU_ENLACE_ALTERNO]`
-
----
-
-## 📸 Capturas de Pantalla de la Aplicación
-
-| 1. Pantalla de Login (Nuevo Diseño) | 2. Registro de Usuario |
-| :---: | :---: |
-| ![Login Screen](screenshots/01_login_screen.png) | ![Register Screen](screenshots/02_registro_screen.png) |
-| *Diseño oscuro con resplandor cromático TikTok, acceso con Correo, Google y Facebook* | *Validación de campos obligatorios, contraseñas seguras y actualización de nombre* |
-
-| 3. Feed de Videos Estilo TikTok | 4. Autenticación con Facebook |
-| :---: | :---: |
-| ![Feed Screen](screenshots/03_feed_screen.png) | ![Facebook OAuth](screenshots/04_facebook_oauth.png) |
-| *Reproducción vertical a pantalla completa, likes, comentarios y compartir* | *Integración con OAuth oficial de Meta y Firebase Authentication* |
-
----
-
 ## 🎬 Enlaces de los Videos del Feed (Muestra Pública)
 
 Los videos reproducidos en el Feed utilizan URLs públicas y compatibles al 100% con el paquete `video_player`:
